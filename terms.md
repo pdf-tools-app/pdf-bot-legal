@@ -44,7 +44,7 @@ To the maximum extent permitted by law, we are not liable for:
 - Processing errors  
 - Service downtime  
 - Inaccuracies in OCR or extraction  
-- Payment issues handled by Stripe or Telegram  
+- Payment issues handled by Stripe 
 - Any indirect or consequential damages  
 
 Your use of the Bot is at your own risk.
@@ -56,15 +56,14 @@ Your use of the Bot is at your own risk.
 ### 4.1. Features
 PRO may include:
 - Increased file size limits  
-- Access to premium tools  
-- Higher processing priority  
+- Access to premium tools 
 
 ### 4.2. Payments
-Payments are processed through Stripe or Telegram.  
+Payments are processed through Stripe.  
 We do not store payment card data.
 
 ### 4.3. Refunds
-All refunds follow Stripe or Telegram Payment policies.  
+All refunds follow Stripe policies.  
 We do not issue direct refunds.
 
 ---
