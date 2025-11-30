@@ -4,8 +4,8 @@ This repository contains the official **Privacy Policy** and **Terms of Use** fo
 
 These documents are required for:
 - Telegram Bot Platform compliance  
-- Stripe subscription and payment processing  
-- Transparency regarding user data, file handling, and security  
+- Transparency regarding user data, file processing, and security  
+- Proper disclosure of Telegram Stars–based payments  
 
 All documents are written in clear, professional English to ensure maximum legal clarity.
 
@@ -15,40 +15,49 @@ All documents are written in clear, professional English to ensure maximum legal
 
 ### **• Privacy Policy**  
 Path: [privacy.md](privacy.md)  
-Explains how the bot processes and protects user data, uploads, temporary logs, and subscription-related information.
+Explains how the bot processes and protects user data, handles temporary files, and describes the use of **Telegram Stars** for PRO features.
 
 ### **• Terms of Use**  
 Path: [terms.md](terms.md)  
-Defines user responsibilities, acceptable use, subscription rules, prohibited content, and service limitations.
+Defines user responsibilities, acceptable use, limitations of liability, Telegram Stars payments, and general service rules.
 
 ---
 
 ## 🔐 Data Protection Principles
 
-The PDF Tools Bot follows standard data-protection practices:
+The PDF Tools Bot follows strict data-protection practices:
 
 - No long-term storage of user files  
-- All files are processed temporarily and automatically deleted  
-- No manual review of uploaded documents  
-- No analytics beyond essential technical logs  
-- No sharing of user information except Telegram/Stripe for operational purposes  
+- All files are processed automatically and deleted after the task completes  
+- No manual review of uploaded content  
+- No analytics beyond minimal technical logs  
+- No sharing or selling of user data  
+- No access to financial details (all Telegram Stars payments are handled entirely by Telegram)
 
 ---
 
-## 📌 Why These Documents Exist
+## ⭐ Payments via Telegram Stars
 
-To ensure:
-- Platform compliance  
-- Transparent communication  
-- Clear legal boundaries  
-- Safe use of the service for all users  
+The bot uses **Telegram Stars** as the only method to unlock PRO features.
 
-These policies help protect both the users and the owner of the bot.
+- Payments are processed exclusively by Telegram  
+- The bot does **not** receive credit card, billing, or personal payment information  
+- Refunds and Stars balances are managed by Telegram according to their policies  
+
+---
+
+## 📌 Purpose of These Documents
+
+These policies ensure:
+- Compliance with Telegram requirements  
+- Full transparency about data handling  
+- Clear legal boundaries for using the service  
+- Protection for both the users and the bot operator  
 
 ---
 
 ## 👤 Contact
- 
+
 **Email:** pdfbot.help@gmail.com  
 
 ---
