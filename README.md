@@ -1,6 +1,6 @@
-# 📄 PDF Tools Bot — Legal Documents
+# 📄 PDF Converter Bot — Legal Documents
 
-This repository contains the official **Privacy Policy** and **Terms of Use** for the **PDF Tools Telegram Bot**.
+This repository contains the official **Privacy Policy** and **Terms of Use** for the **PDF Converter Telegram Bot**.
 
 These documents are required for:
 - Telegram Bot Platform compliance  
@@ -62,4 +62,4 @@ These policies ensure:
 
 ---
 
-© 2025 PDF Tools Bot — All rights reserved.
+© 2025 PDF Converter Bot — All rights reserved.
