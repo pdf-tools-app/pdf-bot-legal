@@ -31,7 +31,7 @@ Fast and secure Telegram bot for working with PDF and office documents.
 
 ## Legal
 
-- [Privacy Policy](https://pdf-tools-app.github.io/pdf-bot-legal/privacy.html)  
-- [Terms of Use]([terms.html](https://pdf-tools-app.github.io/pdf-bot-legal/terms.html))
+- [Privacy Policy](privacy.md)  
+- [Terms of Use](terms.md)
 
 *PDF Converter Bot – your everyday PDF toolkit inside Telegram.*
